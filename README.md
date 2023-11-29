@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats-sandy-nu.vercel.app/api/?username=rvbc1&ver2&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&show=prs_merged)]()
 
-[![Top Langs](https://github-readme-stats-sandy-nu.vercel.app/api/top-langs/?username=rvbc1&ver2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sandy-nu.vercel.app/api/top-langs/?username=rvbc1&exclude_repo=github-readme-stats&ver2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
